@@ -1,0 +1,23 @@
+{
+  "name": "top-restaurantpage",
+  "version": "1.0.0",
+  "description": "TOP Learning project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JiriPohanka/top-restaurantpage.git"
+  },
+  "author": "Jiri Pohanka",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JiriPohanka/top-restaurantpage/issues"
+  },
+  "homepage": "https://github.com/JiriPohanka/top-restaurantpage#readme",
+  "devDependencies": {
+    "webpack": "^5.49.0",
+    "webpack-cli": "^4.7.2"
+  }
+}
